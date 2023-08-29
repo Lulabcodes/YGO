@@ -1,0 +1,39 @@
+num_y.aaex  = 1;
+num_y.gl    = 2;
+num_y.pc    = 3;
+num_y.eh    = 4; 
+num_y.aa_in = 5; 
+num_y.ae    = 6; 
+num_y.r     = 7;
+num_y.z     = 8;
+num_y.gy    = 9; 
+num_y.fe    = 10;
+num_y.gn    = 11; 
+num_y.mt    = 12; 
+num_y.as    = 13; 
+num_y.at    = 14;
+num_y.r0    = 15; 
+num_y.cells = 16; 
+
+num_met.aaex  = 1;
+num_met.gl    = 2;
+num_met.pc    = 3;
+num_met.eh    = 4; 
+num_met.aa_in = 5; 
+num_met.ae    = 6; 
+
+num_prot.r  = 1; 
+num_prot.z  = 2; 
+num_prot.gy = 3; 
+num_prot.fe = 4; 
+num_prot.gn = 5; 
+num_prot.mt = 6; 
+num_prot.as = 7; 
+num_prot.at = 8; 
+
+num_flux.gy = 1; 
+num_flux.fe = 2; 
+num_flux.gn = 3; 
+num_flux.mt = 4; 
+num_flux.as = 5; 
+num_flux.at = 6; 
